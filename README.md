@@ -31,8 +31,6 @@ A food delivery company observed a 20% decline in orders in Indore over three mo
 - Process Analysis
 - Recommendations
 
-📂 Open: Project-1-Order-Decline-Analysis
-
 ---
 
 ## Project 2: Refund Tracking & Notification System
@@ -50,8 +48,6 @@ Customers were unable to track refund status, leading to increased support ticke
 - Wireframes
 - RTM
 
-📂 Open: Project-2-Refund-Tracking-Notification-System
-
 ---
 
 # Skills Demonstrated
@@ -64,9 +60,5 @@ Business Analysis:
 - Root Cause Analysis
 
 Tools:
-- JIRA
 - Draw.io
 - MS Excel
-- Power BI
-- Tableau
-- SQL
