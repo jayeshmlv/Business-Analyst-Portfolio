@@ -1,75 +1,72 @@
-# Jayesh Malviya | Business Analyst Portfolio
+# Business Analyst Portfolio
 
-## About Me
+Welcome to my Business Analyst Portfolio.
 
-Aspiring Business Analyst with experience in Data Analytics, Business Analysis, and Business Intelligence. Skilled in SQL, Excel, Power BI, Tableau, Requirement Gathering, BRD/FRD Documentation, Stakeholder Management, and Process Analysis.
+This repository showcases Business Analysis projects covering:
 
----
-
-## Skills
-
-### Business Analysis
-
-* Requirement Gathering
-* Requirement Elicitation
-* Stakeholder Analysis
-* Stakeholder Management
-* BRD & FRD Documentation
-* Use Case Modeling
-* User Story Writing
-* Acceptance Criteria Definition
-* Root Cause Analysis
-* Process Mapping
-* Wireframing
-* RTM
-
-### Data Analytics
-
-* SQL
-* Power BI
-* Tableau
-* Excel
-* Python
-* Data Visualization
-* KPI Monitoring
+- Requirement Gathering
+- Stakeholder Analysis
+- BRD & FRD Documentation
+- Process Mapping
+- Root Cause Analysis
+- User Stories
+- Use Cases
+- Acceptance Criteria
+- Wireframing
+- RTM
 
 ---
 
-## Featured Projects
+# Projects
 
-### 1. FoodExpress Order Decline Analysis
+## Project 1: Order Decline Analysis
 
-Business Analysis project focused on identifying root causes behind a 20% decline in orders and recommending business improvements.
+### Problem Statement
+A food delivery company observed a 20% decline in orders in Indore over three months.
 
-Key Deliverables:
+### Deliverables
+- Stakeholder Analysis
+- Fishbone Diagram
+- Root Cause Analysis
+- Process Analysis
+- Recommendations
 
-* Stakeholder Analysis
-* Root Cause Analysis
-* Fishbone Diagram
-* Process Analysis
-* Recommendations
-
----
-
-### 2. Refund Tracking & Notification System
-
-End-to-end Business Analyst project for designing a customer-facing refund tracking solution.
-
-Key Deliverables:
-
-* Requirement Elicitation
-* BRD
-* FRD
-* Use Cases
-* User Stories
-* Acceptance Criteria
-* Wireframes
-* RTM
+📂 Open: Project-1-Order-Decline-Analysis
 
 ---
 
-## Contact
+## Project 2: Refund Tracking & Notification System
 
-LinkedIn: https://www.linkedin.com/in/jayesh-malviya-069523191/
+### Problem Statement
+Customers were unable to track refund status, leading to increased support tickets and poor customer experience.
 
-Email: jayeshmlv242@gmail.com
+### Deliverables
+- Requirement Elicitation
+- BRD
+- FRD
+- Use Cases
+- User Stories
+- Acceptance Criteria
+- Wireframes
+- RTM
+
+📂 Open: Project-2-Refund-Tracking-Notification-System
+
+---
+
+# Skills Demonstrated
+
+Business Analysis:
+- Requirement Elicitation
+- Stakeholder Management
+- Process Mapping
+- BRD & FRD Documentation
+- Root Cause Analysis
+
+Tools:
+- JIRA
+- Draw.io
+- MS Excel
+- Power BI
+- Tableau
+- SQL
