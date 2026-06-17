@@ -40,8 +40,7 @@ A Refund Tracking & Notification System allowing customers to:
 
 📄 Requirement Elicitation Document  
 📄 BRD  
-📄 FRD  
-📄 RTM
+📄 FRD
 
 ## Tools Used
 
