@@ -70,6 +70,6 @@ Key Deliverables:
 
 ## Contact
 
-LinkedIn: [Your LinkedIn URL]
+LinkedIn: https://www.linkedin.com/in/jayesh-malviya-069523191/
 
-Email: [Your Email]
+Email: jayeshmlv242@gmail.com
